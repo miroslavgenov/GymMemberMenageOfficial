@@ -3,4 +3,5 @@
     <string name="button_main_menu_add_card">ADD CARD</string>
     <string name="button_main_menu_add_client">ADD CLIENT</string>
     <string name="content_description_icon_search_image">Icon search image</string>
+    <string name="hint_edit_text_search_id">Search ID</string>
 </resources>

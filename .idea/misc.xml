@@ -7,10 +7,12 @@
         <entry key="app/src/main/res/drawable/ic_app_launcher.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_app_launcher_24.xml" value="0.165" />
         <entry key="app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.116" />
         <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.165" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/icon_app_test.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20491803278688525" />
+        <entry key="app/src/main/res/layout/activity_add_client.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.126" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>

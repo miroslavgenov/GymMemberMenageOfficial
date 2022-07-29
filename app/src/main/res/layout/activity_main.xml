@@ -12,7 +12,8 @@
         android:id="@+id/relativeLayOutMainMenu"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="20dp">
+        android:layout_margin="@dimen/margin_RelativeLayout"
+        >
 
         <LinearLayout
             android:id="@+id/linearLayoutMenuSearch"
@@ -33,7 +34,7 @@
                 android:inputType="number"
                 android:maxLength="10"
                 android:autofillHints="creditCardNumber"
-                android:hint="Search ID" />
+                android:hint="@string/hint_edit_text_search_id" />
         </LinearLayout>
 
 
@@ -51,6 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/button_main_menu_add_client"
+                android:layout_marginBottom="40dp"
                 />
 
             <Button
@@ -66,14 +68,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:gravity="center">
+            android:gravity="center"
+            android:layout_marginBottom="70dp"
+            >
 
             <Button
                 android:id="@+id/buttonFooterMenuActive"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="ACTIVE"
-                android:drawableBottom="@drawable/ic_baseline_assignment_ind_24"
+                android:textColor="#D5D5D5"
+                android:drawableTop="@drawable/ic_baseline_assignment_ind_24"
 
                 />
         </LinearLayout>
